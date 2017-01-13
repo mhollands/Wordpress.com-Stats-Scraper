@@ -1,2 +1,2 @@
 # Wordpress.com-Stats-Scraper
-A script to download all Wordpress.com stats for your blog.
+Wordpress.com provide you with a website to view visitor stats but no way to download these stats in bulk. Here I provide a script that spoofs XML Http Requests (XHR) to scrape all of the stats into an spreadsheet.
